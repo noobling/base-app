@@ -17,7 +17,7 @@
     "@nuxtjs/axios": "5.6.0",
     "@nuxtjs/pwa": "2.6.0",
     "@nuxtjs/vuetify": "1.8.5",
-    "auth0-js": "9.11.3",
+    "auth0-js": "9.13.2",
     "nuxt": "2.9.2"
   },
   "devDependencies": {
